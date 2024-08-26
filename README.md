@@ -9,3 +9,5 @@ I'm a Senior Back-End Developer with extensive experience in building robust and
 - **Databases:** PostgreSQL, MySQL, MongoDB, SqlServer
 - **Tools & Platforms:** Docker, Git, CI/CD, Azure, AWS, Openshift
 - **Other Interests:** Microservices, Clean Architecture, TDD, DevOps
+
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,azure,aws,openshift,docker,kubernetes,kafka,rabbitmq,sqlserver,mongodb,redis,git,datadog,grafana&titles=true)
